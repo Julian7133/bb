@@ -59,7 +59,7 @@
     "@types/node": "^22.0.0",
     "@types/semver": "^7.7.1",
     "esbuild": "^0.28.0",
-    "hono": "^4.7.0",
+    "hono": "^4.13.16",
     "tsx": "^4.21.0",
     "typescript": "^5.7.0"
   }
